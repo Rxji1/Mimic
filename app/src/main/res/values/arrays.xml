@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>com.bbk.launcher2</item>
+        <item>io.github.mimic</item>
+    </string-array>
+</resources>
